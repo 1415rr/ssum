@@ -1,0 +1,77 @@
+** AVALIAÇÃO DO SUPORTE **
+Opções de AVALIAÇÃO com informações adicionais majoritariamente assertivas: S-Sim/N-Não/X-Não Executado(Necessário Justificar).
+Caso não consiga realizar o teste solicitado, favor informar a razão.
+
+Solicitação-01: Impressora apresenta problemas de alimentação de energia.
+    Há algum ruído que indique que a fonte está operando (S/N/X)?
+    Testado com outro cabo  (S/N/X)?
+    Testado com outra tomada (S/N/X)?
+    Há alguma peça ou parte aparente que esteja quebrada (S/N/X)?
+
+Solicitação-02: Impressora com falhas na impressão.
+    Imprime (S/N/X)?
+    Imprime com que falhas ?
+    Ocorre Atolamento ( N-Não, R-Raramente, F-Frequentemente, S-Sempre/Quase sempre) ?
+    SAMSUNG 4510: Quais as mensagens do visor ?
+    SAMSUNG 3325: O indicador de erro está aceso ou intermitente (S/N/X)?
+    Há alguma peça ou parte aparente que esteja quebrada (S/N/X)?
+
+Solicitação-03: Impressora com falhas na alimentação de papel.
+    Ocorre Atolamento ( N-Não, R-Raramente, F-Frequentemente, S-Sempre/Quase sempre) ?
+    Bandeja está vazia (S/N/X)?
+    O tracionador da bandeja 1 funciona (S/N/X)?
+    O tracionador da bandeja multifuncional funciona (S/N/X)?
+    SAMSUNG 4510: Quais as mensagens do visor (S/N/X)?
+    SAMSUNG 3325: O indicador de erro está (A)ceso, (P)iscando ou (-)Apagado ?
+    Há alguma peça ou parte aparente que esteja quebrada (S/N/X)?
+
+Solicitação-04: Impressora disfuncional.
+    Imprime (S/N/X)?
+    Ocorre Atolamento ( N-Não, R-Raramente, F-Frequentemente, S-Sempre/Quase sempre) ?
+    Superaquecendo (S/N/X)?
+    Cheiro de queimado (S/N/X)?
+    Ruído (S/N/X)?
+    SAMSUNG 4510: Quais as mensagens do visor (S/N/X)?
+    SAMSUNG 3325: O indicador de erro está (A)ceso, (P)iscando ou (-)Apagado ?
+    Há alguma peça ou parte aparente que esteja quebrada (S/N/X)?
+
+Solicitação-05: Impressora com problema de conectividade na rede.
+    A entrada do RJ-45 acende (S/N/X)?
+    A entrada do RJ-45 pisca (S/N/X)?
+    A entrada do RJ-45 apresenta quais cores (S/N/X)?
+    Testado em outro ponto de rede (S/N/X)?
+    SAMSUNG 4510: Quais as mensagens do visor (S/N/X)?
+    SAMSUNG 3325: O indicador de erro está (A)ceso, (P)iscando ou (-)Apagado ?
+    Alguma limitação para obter os dados de uso via USB (S/N/X)?
+    A impressora foi deixada operando via USB (S/N/X)?
+
+
+** DADOS DE USO DA IMPRESSORA **
+(Caso a impressora não ligue - informar: IMPRESSORA NÃO LIGA)
+
+    -- CONSUMÍVEIS --
+    Uso de TONER:
+    77/100 (usado/total)
+    Uso de UNIDADE DE IMAGEM:
+    77/100 (usado/total)
+    Vida útil do FUSOR:
+    99001/100000 (Impressões/Vida útil)
+
+    -- PEÇAS DA BANDEJA 1 --
+    vida útil do ROLO DA BANDEJA:
+    99001/100000 (Impressões/Vida útil)
+    Vida útil do ROLO DE TRANSFERÊNCIA:
+    99001/100000 (Impressões/Vida útil)
+    Vida útil do ROLO DE RETROCESSO:
+    99001/100000 (Impressões/Vida útil)
+
+    -- PEÇAS DA BANDEJA MULTIFUNCIONAL --
+    vida útil do ROLO DA BANDEJA:
+    99001/100000 (Impressões/Vida útil)
+    Vida útil do ROLO DE TRANSFERÊNCIA:
+    99001/100000 (Impressões/Vida útil)
+    Vida útil do ROLO DE RETROCESSO:
+    99001/100000 (Impressões/Vida útil)
+
+Nome do técnico responsavel pelas informações:
+Matricula, Nome e telefone de contato do usuário: (Caso o atendimento tenha sido realizado por telefone, para eventuais esclarecimentos)
